@@ -1,2 +1,2 @@
 # Text-TicTacToe
-Keyboard based tic tac toe game.
+A keyboard based tic tac toe game.
